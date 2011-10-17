@@ -1,0 +1,5 @@
+A small Python project on Google Apps, allowing a user to specify
+a URL to fetch images from.  Can also be used locally as a utility
+to save said images to a local directory.
+
+currently hosted at: image-snagger.appspot.com
